@@ -1,0 +1,1 @@
+{"outputPath":"D:/Unity3d/MyPlugins/Assets/RedScarf/EasyCSV/Editor/EditorResources/Csv2Class","sourcePath":"D:/Unity3d/MyPlugins/Assets/RedScarf/EasyCSV/Editor/EditorResources/Csv","namespaceStr":"RedScarf.EasyCsvEditor","isClass":true}
